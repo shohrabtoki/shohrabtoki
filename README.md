@@ -19,7 +19,7 @@
 
 I'm currently studying Web Developement at BrainStation.  **I'm open to work and employment opportunities**.
 
-I am a community builder at [Vancouber.dev](https://vancouver.dev)
+I am a community builder at [Vancouver.dev](https://vancouver.dev)
 
 
 
