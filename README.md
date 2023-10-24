@@ -26,7 +26,7 @@ I'm currently studying Web Developement at BrainStation.  **I'm open to work and
 - :fireworks: I am a community builder at [Vancouver.dev](https://vancouver.dev)
 - 🌱 I’m currently learning a lot of things, I believe that everyday is a learning opportunity.
 - 📫 I am just one mail away - [toki at vancouver dot dev]
-- :partying_face: Fun fact: When I'm not in front of the screen, I enjoy taking photos, going for hikes, and taking care of my little dog, Barky 🐶 
+- :partying_face: Fun fact: When I'm not in front of the screen, I love photography, going for hikes, and taking care of my little dog, Barky 🐶 
 
 
 ### Numbers
