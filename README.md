@@ -17,7 +17,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm currently studying Web Developement at BrainStation.  **I'm open to work and employment opportunities**.
 
 
 
